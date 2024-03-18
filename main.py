@@ -1,4 +1,5 @@
 from priority_queue import PriorityQueue
+
 def main():
     pq = PriorityQueue()
   
